@@ -1,6 +1,7 @@
 description: Empty TrueGRF project
-grfid: TRU1
+grfid: f1ed0319
 license: CC0-1.0
 name: TrueGRF
+type: industry
 url: https://github.com/wyndbain/gets-addon-set
-version: 4
+version: 6
